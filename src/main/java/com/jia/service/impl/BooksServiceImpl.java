@@ -8,10 +8,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @author ： jiachuixun
- * @date ： 2020-04-24 15:20
- */
 @Service
 public class BooksServiceImpl implements BooksService {
 

@@ -5,10 +5,6 @@ import com.jia.pojo.Books;
 
 import java.util.List;
 
-/**
- * @author ： jiachuixun
- * @date ： 2020-04-24 15:21
- */
 public interface BookMapper {
     //添加数据
     int addBooks(Books books);

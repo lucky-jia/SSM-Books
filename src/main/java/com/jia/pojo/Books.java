@@ -6,11 +6,6 @@ import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 
-/**
- * @author ： jiachuixun
- * @date ： 2020-04-24 15:18
- */
-
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

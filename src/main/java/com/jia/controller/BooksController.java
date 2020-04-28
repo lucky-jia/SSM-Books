@@ -11,10 +11,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author ： jiachuixun
- * @date ： 2020-04-24 15:20
- */
 @Controller
 @RequestMapping("/book")
 public class BooksController {
